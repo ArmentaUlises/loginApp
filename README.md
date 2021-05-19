@@ -1,7 +1,7 @@
 # Login App
 
 
-##### Proyecto para profundizar en conceptos de Ionic y aprender conceptos de la autentificación de [Firebase](https://firebase.google.com/).
+##### Proyecto para profundizar en conceptos de ionic y conocer algunos de los servicios que ofrece [Firebase](https://firebase.google.com/).
 
 ## Capturas
 
